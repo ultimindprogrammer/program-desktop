@@ -1,0 +1,934 @@
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\SC.exe
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\SC.pdb
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\DevExpress.Data.v17.1.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\DevExpress.Data.v17.1.xml
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\obj\Debug\SC.csprojResolveAssemblyReference.cache
+D:\PROJECT\VS\KANTOR\SC\SC\obj\Debug\SC.Properties.Resources.resources
+D:\PROJECT\VS\KANTOR\SC\SC\obj\Debug\SC.csproj.GenerateResource.Cache
+D:\PROJECT\VS\KANTOR\SC\SC\obj\Debug\SC.exe.licenses
+D:\PROJECT\VS\KANTOR\SC\SC\obj\Debug\SC.exe
+D:\PROJECT\VS\KANTOR\SC\SC\obj\Debug\SC.pdb
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\DevExpress.CodeParser.v17.1.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\DevExpress.DataAccess.v17.1.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\DevExpress.Office.v17.1.Core.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\DevExpress.Xpo.v17.1.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\DevExpress.DataAccess.v17.1.xml
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\DevExpress.Office.v17.1.Core.xml
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\DevExpress.Xpo.v17.1.xml
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\SCLibrary.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\MySql.Data.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\SCLibrary.pdb
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\NPOI.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\NPOI.xml
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\NPOI.OOXML.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\DR7\Desktop\SC (2)\SC\obj\Debug\SC.exe
+C:\Users\DR7\Desktop\SC (2)\SC\obj\Debug\SC.pdb
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\SC.exe
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\SC.pdb
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\DevExpress.CodeParser.v17.1.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\DevExpress.DataAccess.v17.1.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\DevExpress.Xpo.v17.1.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\SCLibrary.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\Npgsql.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\MySql.Data.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\NPOI.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\NPOI.OOXML.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\Mono.Security.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\SCLibrary.pdb
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\DevExpress.DataAccess.v17.1.xml
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\NPOI.xml
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\obj\Debug\SC.csprojResolveAssemblyReference.cache
+C:\Users\DR7\Desktop\SC (2)\SC\obj\Debug\SC.MainForm.resources
+C:\Users\DR7\Desktop\SC (2)\SC\obj\Debug\SC.Properties.Resources.resources
+C:\Users\DR7\Desktop\SC (2)\SC\obj\Debug\SC.csproj.GenerateResource.Cache
+C:\Users\DR7\Desktop\SC (2)\SC\obj\Debug\SC.exe.licenses
+C:\Users\DR7\Desktop\SC (2)\SC\obj\Debug\SC.LoginForm.resources
+C:\Users\DR7\Desktop\SC (2)\SC\obj\Debug\SC.LoginFromNew.resources
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\DR7\Desktop\SC (2)\SC\bin\Debug\UCUP.NET.dll
+C:\Users\DR7\Desktop\SC (2)\SC\obj\Debug\SC.ProductForm.resources
+C:\Users\DR7\Desktop\SC (2)\SC\obj\Debug\SC.AddSalesmanForm.resources
+G:\PROJECT\KANTOR\PROJECT\SC\SC\obj\Debug\SC.exe
+G:\PROJECT\KANTOR\PROJECT\SC\SC\obj\Debug\SC.pdb
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\SC.exe
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\SC.pdb
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\DevExpress.CodeParser.v17.1.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\DevExpress.Data.v17.1.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\DevExpress.DataAccess.v17.1.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\DevExpress.Office.v17.1.Core.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\DevExpress.Utils.v17.1.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\DevExpress.Xpo.v17.1.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\DevExpress.XtraBars.v17.1.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\SCLibrary.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\UCUP.NET.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\MySql.Data.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\NPOI.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\NPOI.OOXML.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\ICSharpCode.SharpZipLib.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\NPOI.OpenXmlFormats.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\NPOI.OpenXml4Net.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\SCLibrary.pdb
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\DevExpress.Data.v17.1.xml
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\DevExpress.DataAccess.v17.1.xml
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\DevExpress.Office.v17.1.Core.xml
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\DevExpress.Utils.v17.1.xml
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\DevExpress.Xpo.v17.1.xml
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\DevExpress.XtraBars.v17.1.xml
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\NPOI.xml
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+G:\PROJECT\KANTOR\PROJECT\SC\SC\obj\Debug\SC.csprojResolveAssemblyReference.cache
+G:\PROJECT\KANTOR\PROJECT\SC\SC\obj\Debug\SC.Form_Login.resources
+G:\PROJECT\KANTOR\PROJECT\SC\SC\obj\Debug\SC.Form_Main.resources
+G:\PROJECT\KANTOR\PROJECT\SC\SC\obj\Debug\SC.Form_AddSales.resources
+G:\PROJECT\KANTOR\PROJECT\SC\SC\obj\Debug\SC.Form_Product.resources
+G:\PROJECT\KANTOR\PROJECT\SC\SC\obj\Debug\SC.Properties.Resources.resources
+G:\PROJECT\KANTOR\PROJECT\SC\SC\obj\Debug\SC.csproj.GenerateResource.Cache
+G:\PROJECT\KANTOR\PROJECT\SC\SC\obj\Debug\SC.exe.licenses
+G:\PROJECT\KANTOR\PROJECT\SC\SC\obj\Debug\SC.Form_SplashScreen.resources
+G:\PROJECT\KANTOR\PROJECT\SC\SC\bin\Debug\DevExpress.Images.v17.1.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\DevExpress.Images.v17.1.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\UCUP.NET.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\PROJECT\VS\KANTOR\SC\SC\obj\Debug\SC.Form_Login.resources
+D:\PROJECT\VS\KANTOR\SC\SC\obj\Debug\SC.Form_Main.resources
+D:\PROJECT\VS\KANTOR\SC\SC\obj\Debug\SC.Form_AddSales.resources
+D:\PROJECT\VS\KANTOR\SC\SC\obj\Debug\SC.Form_Product.resources
+D:\PROJECT\VS\KANTOR\SC\SC\obj\Debug\SC.Form_SplashScreen.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\obj\Debug\SC.exe
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\obj\Debug\SC.pdb
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\SC.exe
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\SC.pdb
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\DevExpress.CodeParser.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\DevExpress.Data.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\DevExpress.DataAccess.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\DevExpress.Images.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\DevExpress.Office.v17.1.Core.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\DevExpress.Xpo.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\SCLibrary.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\UCUP.NET.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\MySql.Data.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\NPOI.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\NPOI.OOXML.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\NPOI.OpenXml4Net.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\SCLibrary.pdb
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\DevExpress.Data.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\DevExpress.DataAccess.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\DevExpress.Office.v17.1.Core.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\DevExpress.Xpo.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\NPOI.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\obj\Debug\SC.csprojResolveAssemblyReference.cache
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\obj\Debug\SC.Form_Login.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\obj\Debug\SC.Form_Main.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\obj\Debug\SC.Form_AddSales.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\obj\Debug\SC.Form_Product.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\obj\Debug\SC.Form_SplashScreen.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\obj\Debug\SC.Properties.Resources.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\obj\Debug\SC.csproj.GenerateResource.Cache
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\obj\Debug\SC.exe.licenses
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\obj\Debug\SC.Form_FilterOrder.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\obj\Debug\SC.Form_OrderAction.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\SC\SC\obj\Debug\SC.Form_ProductFilter.resources
+D:\PROJECT\VS\KANTOR\SC 14-12-2017\SC\SC\obj\Debug\SC.exe
+D:\PROJECT\VS\KANTOR\SC 14-12-2017\SC\SC\obj\Debug\SC.pdb
+D:\PROJECT\VS\KANTOR\SC\SC\obj\Debug\SC.Form_FilterOrder.resources
+D:\PROJECT\VS\KANTOR\SC\SC\obj\Debug\SC.Form_OrderAction.resources
+D:\PROJECT\VS\KANTOR\SC\SC\obj\Debug\SC.Form_ProductFilter.resources
+D:\PROJECT\VS\KANTOR\SC\SC\obj\Debug\SC.Forms.Form_Toast.resources
+D:\PROJECT\VS\KANTOR\SC\SC\obj\Debug\SC.Common.ToastControl.resources
+D:\PROJECT\VS\KANTOR\SC\SC\obj\Debug\SC.Overlay_Form.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\obj\Debug\SC.exe
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\obj\Debug\SC.pdb
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\SC.exe
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\SC.pdb
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\DevExpress.CodeParser.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\DevExpress.Data.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\DevExpress.DataAccess.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\DevExpress.Images.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\DevExpress.Office.v17.1.Core.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\DevExpress.Xpo.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\SCLibrary.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\UCUP.NET.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\MySql.Data.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\NPOI.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\NPOI.OOXML.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\NPOI.OpenXml4Net.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\SCLibrary.pdb
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\DevExpress.Data.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\DevExpress.DataAccess.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\DevExpress.Office.v17.1.Core.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\DevExpress.Xpo.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\NPOI.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\obj\Debug\SC.csprojResolveAssemblyReference.cache
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\obj\Debug\SC.Common.ToastControl.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\obj\Debug\SC.Forms.Form_Toast.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\obj\Debug\SC.Overlay_Form.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\obj\Debug\SC.Form_FilterOrder.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\obj\Debug\SC.Form_Login.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\obj\Debug\SC.Form_Main.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\obj\Debug\SC.Form_AddSales.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\obj\Debug\SC.Form_OrderAction.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\obj\Debug\SC.Form_Product.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\obj\Debug\SC.Form_ProductFilter.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\obj\Debug\SC.Form_SplashScreen.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\obj\Debug\SC.Properties.Resources.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\obj\Debug\SC.csproj.GenerateResource.Cache
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\obj\Debug\SC.exe.licenses
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\obj\Debug\SC.Form_Nego.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.7\SC\obj\Debug\SC.Form_CustomerFilter.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\obj\Debug\SC.exe
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\obj\Debug\SC.pdb
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\SC.exe
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\SC.pdb
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\DevExpress.CodeParser.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\DevExpress.Data.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\DevExpress.DataAccess.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\DevExpress.Images.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\DevExpress.Office.v17.1.Core.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\DevExpress.Xpo.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\SCLibrary.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\UCUP.NET.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\MySql.Data.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\NPOI.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\NPOI.OOXML.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\NPOI.OpenXml4Net.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\SCLibrary.pdb
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\DevExpress.Data.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\DevExpress.DataAccess.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\DevExpress.Office.v17.1.Core.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\DevExpress.Xpo.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\NPOI.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\obj\Debug\SC.csprojResolveAssemblyReference.cache
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\obj\Debug\SC.Common.ToastControl.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\obj\Debug\SC.Forms.Form_Toast.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\obj\Debug\SC.Overlay_Form.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\obj\Debug\SC.Form_CustomerFilter.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\obj\Debug\SC.Form_FilterOrder.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\obj\Debug\SC.Form_Login.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\obj\Debug\SC.Form_Main.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\obj\Debug\SC.Form_AddSales.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\obj\Debug\SC.Form_Nego.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\obj\Debug\SC.Form_OrderAction.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\obj\Debug\SC.Form_Product.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\obj\Debug\SC.Form_ProductFilter.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\obj\Debug\SC.Form_SplashScreen.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\obj\Debug\SC.Properties.Resources.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\obj\Debug\SC.csproj.GenerateResource.Cache
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\obj\Debug\SC.exe.licenses
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.0.8\SC\obj\Debug\SC.Form_TambahCustomer.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\obj\Debug\SC.exe
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\obj\Debug\SC.pdb
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\SC.exe
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\SC.pdb
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\DevExpress.CodeParser.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\DevExpress.Data.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\DevExpress.DataAccess.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\DevExpress.Images.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\DevExpress.Office.v17.1.Core.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\DevExpress.Xpo.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\SCLibrary.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\UCUP.NET.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\MySql.Data.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\NPOI.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\NPOI.OOXML.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\NPOI.OpenXml4Net.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\SCLibrary.pdb
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\DevExpress.Data.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\DevExpress.DataAccess.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\DevExpress.Office.v17.1.Core.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\DevExpress.Xpo.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\NPOI.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\obj\Debug\SC.csprojResolveAssemblyReference.cache
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\obj\Debug\SC.Common.ToastControl.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\obj\Debug\SC.Forms.Form_Toast.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\obj\Debug\SC.Overlay_Form.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\obj\Debug\SC.Form_CustomerFilter.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\obj\Debug\SC.Form_FilterOrder.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\obj\Debug\SC.Form_Login.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\obj\Debug\SC.Form_Main.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\obj\Debug\SC.Form_AddSales.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\obj\Debug\SC.Form_Nego.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\obj\Debug\SC.Form_OrderAction.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\obj\Debug\SC.Form_Product.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\obj\Debug\SC.Form_ProductFilter.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\obj\Debug\SC.Form_SplashScreen.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\obj\Debug\SC.Form_TambahCustomer.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\obj\Debug\SC.Properties.Resources.resources
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\obj\Debug\SC.csproj.GenerateResource.Cache
+D:\10213083_Mochamad Dani Ramdhani\Work\PT Sinar Continental\SC_0.1.0\SC\obj\Debug\SC.exe.licenses
