@@ -1,0 +1,18 @@
+//==================== INPUT DATA BARANG KE DATABASE (QUERY SINTAKSS ===================================
+
+string command = "INSERT INTO tbl_inventory (CONTRACT, ACCOUNTING_GROUP, KODE_KELOMPOK, KELOMPOK_DESAIN, PART_NO, DESCRIPTION, KODE_WARNA, WARNA, GRADE) " +
+                            "VALUES('" + tryString(dataGridView1[0, i].Value.ToString()) + "','" + tryString(dataGridView1[1, i].Value.ToString()) + "','" + tryString(dataGridView1[2, i].Value.ToString()) + "','" + tryString(dataGridView1[3, i].Value.ToString()) + "','" + tryString(dataGridView1[4, i].Value.ToString()) + "','" + tryString(dataGridView1[5, i].Value.ToString()) + "','" + tryString(dataGridView1[6, i].Value.ToString()) + "','" + tryString(dataGridView1[7, i].Value.ToString()) + "','" + tryString(dataGridView1[8, i].Value.ToString()) + "')";
+NpgsqlCommand scommand = new NpgsqlCommand();
+scommand.Connection = connection;
+scommand.CommandType = CommandType.Text;
+scommand.CommandText = command;
+scommand.ExecuteNonQuery();
+
+
+//======================= UPDATE DATA BARANG DI DATABASE (QUERY SINTAKSS) =================
+string command = "UPDATE tbl_inventory SET KODE_KELOMPOK='78834413jjj' WHERE PART_NO='<part_no>'";
+NpgsqlCommand scommand = new NpgsqlCommand();
+scommand.Connection = connection;
+scommand.CommandType = CommandType.Text;
+scommand.CommandText = command;
+scommand.ExecuteNonQuery();
